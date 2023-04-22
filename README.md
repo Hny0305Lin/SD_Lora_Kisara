@@ -10,6 +10,8 @@
 
 😊[Stable-Diffusion-WebUI 点我访问](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 😊[插件 sd-webui-additional-networks 点我访问](https://github.com/kohya-ss/sd-webui-additional-networks)
 
+注意！本项目会持续开源下去，会存在改进模型的可能，请大家多送点Star谢谢！反响很好的话我一定会在专升本考试后(可能)更新出更好的模型！
+
 ## 谁是Kisara？我想知道Kisara的具体资料！
 可以前往萌娘百科里找到:[点我](https://zh.moegirl.org.cn/zh-hk/%E6%9C%A8%E6%9B%B4)
 
