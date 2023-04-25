@@ -10,7 +10,7 @@
 
 😊[Stable-Diffusion-WebUI 点我访问](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 😊[插件 sd-webui-additional-networks 点我访问](https://github.com/kohya-ss/sd-webui-additional-networks)
 
-~注意！本项目会持续开源下去，会存在改进模型的可能，请大家多送点Star谢谢！反响很好的话我一定会在专升本考试后(可能)更新出更好的模型！~
+注意！本项目会持续开源下去，会存在改进模型的可能，请大家多送点Star谢谢！~反响很好的话我一定会在专升本考试后(可能)更新出更好的模型！~
 
 反响很棒，今年会推出2.0版本，敬请期待。
 
@@ -29,6 +29,8 @@
 | **正面Tag** | **负面Tag** | Steps | **采样方法** | CFG | 种子 | *是否需要面部修复* | 面部修复 | 正常尺寸 | **底模名称 & Hash哈希值** | *是否需要高分辨率修复* | 放大算法 | 高分辨率迭代步数 | 重绘幅度 | 放大倍数 |
 |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |
 | 1girl, bangs, black_ribbon, blurry, blurry_background, closed_mouth, collarbone, crying, crying_with_eyes_open, eyebrows_visible_through_hair, hair_between_eyes, hair_ornament, hair_ribbon, hairclip, long_hair, looking_at_viewer, pink_eyes, pink_hair, ribbon, sailor_collar, school_uniform, serafuku, solo, tears, x_hair_ornament | (worst quality:2, low quality:2), (zombie, sketch, interlocked fingers, comic), | 40 | DPM++ SDE Karras | 7 | 3345681139（可不填） | ✅ | GFPGAN | 512x768 | Counterfeit-V2.5 bd83b90a2e | ✅ | R-ESRGAN 4x+ | 10 | 0.3 | 2 |
+| masterpiece, best quality, 1girl, bangs, black ribbon, blurry, blurry background, closed mouth, collarbone, eyebrows visible through hair, hair between eyes, hair ornament, hair ribbon, hairclip, long hair, looking at viewer, pink eyes, pink hair, ribbon, sailor collar, school uniform, serafuku, solo, tears, x hair ornament, |  (worst quality, low quality:1.4), (bad anatomy), (bad hands), (bad clothes), (zombie, sketch, interlocked fingers, comic), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), missing fingers, extra digit, (futa:1.1), logo, white letters,missing fingers, extra digit, fewer digits,(mutated hands and fingers:1.5 ), (long body :1.3), bad hands, fused hand, missing hand, disappearing arms, error, missing fingers, missing limb,fused fingers, one hand with more than 5 fingers, one hand with less than 5 fingers, one hand with morethan 5 digit, one hand with less than 5 digit, extra digit, fewer digits, fused digit, missing digit, watermark, text, title, | 40 | DPM++ SDE Karras | 7 | 3875681161（可不填） | ✅ | GFPGAN | 512x768 | Counterfeit-V2.5 bd83b90a2e | ✅ | R-ESRGAN 4x+ | 10 | 0.3 | 2 |
+
 | 本项目将会持续下去直到永远，欢迎大家踊跃添加Tag分享出来送给需要的人!❤ |
 
 ## 开源协议？
