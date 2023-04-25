@@ -16,8 +16,11 @@
 
 ## 本项目目前在GitHub外哪里见得到文件和页面呢？
 您可以前往海外Huggineface、Civitai网站得到我们的Lora模型文件，当然在GitHub这里也是可以的。
+
 [点我前往huggineface](https://huggingface.co/Hny0305Lin/SD_Lora_Kisara)
+
 [点我前往civitai](https://civitai.com/models/47861?modelVersionId=52456)
+
 由于国内的政策影响，在AI方面还存在很多不确定性，网站平台的审核也的确过于的繁琐了，短期内我不会选择模型投稿至国内社区。敬请谅解。
 
 ## 谁是Kisara？我想知道Kisara的具体资料！
